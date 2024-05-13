@@ -11,8 +11,5 @@ main:
     - title: "Instagram"
       icon: "fab fa-instagram"
       url: "https://instagram.com/"
-    - title: "Dribbble"
-      icon: "fab fa-dribbble"
-      url: "https://dribbble.com/"
   text1: "E: giguzman@miners.utep.edu"
   text2: "T: +1 (915) 202-4744"
