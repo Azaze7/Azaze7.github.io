@@ -86,38 +86,6 @@ resume:
         name: "Web Design Course"
         text: "Converted Photoshop layouts to web pages using HTML, CSS, and JavaScript"
 
-### Resume [ resume ]
-resume2:
-  experience:
-    title: "Personal Projects"
-    items:
-      - year: "2013 - Present"
-        name: "Art Director - Facebook Inc"
-        text: "Collaborate with creative and development teams on the execution of ideas."
-
-      - year: "2011 - 2012"
-        name: "Front-end Developer - Google Inc"
-        text: "Monitored technical aspects of the front-end delivery for several projects."
-
-      - year: "2009 - 2010"
-        name: "Senior Developer - Abc Inc"
-        text: "Optimize website performance using latest technology."
-        
-  education:
-    title: "Course Work"
-    items:
-      - year: "2006 - 2008"
-        name: "Art University of New York"
-        text: "Bachelor's Degree in Computer Science ABC Technical Institute, Jefferson, Missouri"
-
-      - year: "2005 - 2006"
-        name: "Programming Course"
-        text: "Coursework - Git, WordPress, Javascript, iOS, Android."
-
-      - year: "2004 - 2005"
-        name: "Web Design Course"
-        text: "Converted Photoshop layouts to web pages using HTML, CSS, and JavaScript"
-
 ### Skills [ skills ]
 skills:
   columns:
@@ -246,7 +214,7 @@ testimonials:
 
 ### Custom Text [ text ]
 text:
-  title: "Clients / Events"
+  title: "Personal Projects / Course Work"
   text: "
         <p>
             Now there is more fashion. There is no so-called trends. Now chase after anything not necessary — nor for fashionable color nor the shape, nor for style. Think about the content that you want to invest in a created object, and only then will form. The thing is your spirit. A spirit unlike forms hard copy.
@@ -258,7 +226,7 @@ text:
         
 ### Clients [ clients ]
 clients:
-  title: ""
+  title: "Clients / Events"
   items:
     - url: "https://devcom.army.mil/"
       image: "assets/img/clients/client1big.png"
