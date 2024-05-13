@@ -11,19 +11,13 @@ main:
     url: "/"
     parent: 1
     childs:
-        - title: "Home Personal"
+        - title: "Who Am I?"
           url: "/"
-
     
   # Resume
   - title: "Resume"
-    url: "resume/"
-    parent: 1
-    childs:
-        - title: "Resume Default"
-          url: "resume/"
-        - title: "Resume Image"
-          url: "resume-image/"
+    url: "resume-image/"
+    parent: 0
   
   # Portfolio
   - title: "Portfolio"
@@ -37,12 +31,5 @@ main:
   
   # Contacts
   - title: "Contacts"
-    url: "contacts/"
-    parent: 1
-    childs:
-        - title: "Contacts Default"
-          url: "contacts/"
-        - title: "Contacts Image"
-          url: "contacts-image/"
-        - title: "Contacts Map"
-          url: "contacts-map/"
+    url: "contacts-image/"
+    parent: 0
