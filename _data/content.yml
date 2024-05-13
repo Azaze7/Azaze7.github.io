@@ -221,7 +221,7 @@ facts:
       name: "Chess"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
-    - icon: "fas fa-solid fa-book-bookmark"
+    - icon: "fas fa-solid fa-book"
       name: "Reading"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
           
