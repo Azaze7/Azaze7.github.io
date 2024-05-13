@@ -35,28 +35,24 @@ services:
   title: "Services"
   items:
     - icon: "fas fa-code"
+      name: "Full-Stack Development"
+      text: "I'm fully versed in Back-End & Front-End development for any project you need."
+
+    - icon: "fas fa-code"
       name: "Web Development"
-      text: "Modern and mobile-ready website that will help you reach all of your marketing."
-
-    - icon: "fas fa-music"
-      name: "Music Writing"
-      text: "Music copying, writing, creating, transcription, arranging and services."
-
-    - icon: "fas fa-ad"
-      name: "Advetising"
-      text: "Advertising services include television, radio, print, mail, and web apps."
-
-    - icon: "fas fa-gamepad"
-      name: "Game Development"
-      text: "Developing memorable and unique mobile android, ios and video games."
-
-    - icon: "fas fa-camera"
-      name: "Photography"
-      text: "Our in-house photography services team made up of professional photographers."
+      text: "I can create Modern and mobile-ready websites for your project or business."
 
     - icon: "fas fa-mobile-alt"
-      name: "Android Application"
-      text: "Games, playing music, handle network transactions, interacting content etc."
+      name: "UI/UX Concepting"
+      text: "I can assist in the creation of eye-popping yet user friendly user interfaces or social media profiles."
+      
+    - icon: "fas fa-gamepad"
+      name: "Game Development"
+      text: "I can help develop unique and memorible games for android, ios, and more."
+      
+    - icon: "fas fa-camera"
+      name: "Photography"
+      text: "I have experience in professional photography, and can assist in creating visually stunning photos for you or your social media.."
       
 ### Pricing [ pricing ]
 pricing:
