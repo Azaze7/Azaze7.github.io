@@ -32,7 +32,7 @@ about:
 
 ### Services [ services ]
 services:
-  title: "Skills & Services"
+  title: "Skills"
   items:
     - icon: "fas fa-code"
       name: "Full-Stack Development"
@@ -152,17 +152,20 @@ skills:
     - type: "circles" #skills progress type - default, dotted, circles, list
       title: "Coding Skills"
       items:
-        - label: "WordPress"
+        - label: "Python"
+          value: "100" #0-100 progress in %
+
+        - label: "C / C++"
           value: "95" #0-100 progress in %
 
+        - label: "Java / JavaScript"
+          value: "90" #0-100 progress in %
+          
         - label: "PHP / MYSQL"
-          value: "75" #0-100 progress in %
-
-        - label: "Angular / JavaScript"
           value: "85" #0-100 progress in %
 
-        - label: "HTML / CSS"
-          value: "90" #0-100 progress in %
+        - label: "HTML"
+          value: "80" #0-100 progress in %
 
     - type: "list" #skills progress type - default, dotted, circles, list
       title: "Knowledge"
