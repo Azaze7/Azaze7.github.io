@@ -5,9 +5,9 @@
 
 main:
   social:
-    - title: "Pinterest"
+    - title: "Github"
       icon: "fab fa-pinterest"
-      url: "https://www.pinterest.com/"
+      url: "https://github.com/Azaze7"
     - title: "Instagram"
       icon: "fab fa-instagram"
       url: "https://instagram.com/"
