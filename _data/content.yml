@@ -180,32 +180,6 @@ facts:
     - icon: "fas fa-solid fa-book-open-cover"
       name: "Reading"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-      
-### Team [ team ]
-team:
-  title: "Our Team"
-  items:
-    - image: "assets/img/team/team1.jpg"
-      name: "Alejandro Abeyta"
-      role: "Web Developer"
-      social:
-        - url: "https://www.pinterest.com/"
-          icon: "fab fa-pinterest"
-        - url: "https://www.instagram.com/"
-          icon: "fab fa-instagram"
-        - url: "https://dribbble.com/"
-          icon: "fab fa-dribbble"
-          
-    - image: "assets/img/team/team2.jpg"
-      name: "Peter Green"
-      role: "Back-end Developer"
-      social:
-        - url: "https://www.pinterest.com/"
-          icon: "fab fa-pinterest"
-        - url: "https://www.instagram.com/"
-          icon: "fab fa-instagram"
-        - url: "https://dribbble.com/"
-          icon: "fab fa-dribbble"
           
 ### Testimonials [ testimonials ]
 testimonials:
