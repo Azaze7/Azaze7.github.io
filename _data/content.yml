@@ -226,7 +226,7 @@ text:
         
 ### Clients [ clients ]
 clients:
-  title: "Clients / Events"
+  title: "                        Clients / Events"
   items:
     - url: "https://devcom.army.mil/"
       image: "assets/img/clients/client1big.png"
