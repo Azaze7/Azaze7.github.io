@@ -164,10 +164,16 @@ skills:
           value: "90" #0-100 progress in %
           
         - label: "PHP / MYSQL"
-          value: "85" #0-100 progress in %
+          value: "90" #0-100 progress in %
 
-        - label: "HTML"
+        - label: "Scala
+          value: "85"
+
+        - label: "Ruby"
           value: "80" #0-100 progress in %
+
+        -label: "Rust"
+          value: "75"
 
     - type: "list" #skills progress type - default, dotted, circles, list
       title: "Knowledge"
