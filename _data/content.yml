@@ -226,13 +226,39 @@ text:
         
 ### Clients [ clients ]
 clients:
-  title: "                        Clients / Events"
+  title: "Clients / Events"
   items:
     - url: "https://devcom.army.mil/"
       image: "assets/img/clients/client1big.png"
 
     - url: "https://www.linkedin.com/posts/bandit-game-studio_gamejam-jesseschell-gaia-activity-7051603509477052416-23Oy"
       image: "assets/img/clients/client2big.png"
+<!-- Section Clients -->
+<div class="section clients" id="section-clients" style="display: flex; align-items: center; justify-content: center; height: 100vh;">
+    <div class="content">
+        <!-- title -->
+        <div class="title" style="text-align: center;">
+            <div class="title_inner">{{ content.title }}</div>
+        </div>
+        
+        <!-- clients items -->
+        <div class="content-box">
+            <div class="clients-items" style="display: flex; justify-content: center;">
+                {% for item in content.items %}
+                <div class="clients-col">
+                    <div class="clients-item">
+                        <a target="_blank" href="{{ item.url }}">
+                            <img src="{{ item.image | relative_url }}" alt="" style="height: 500%;" />
+                        </a>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <div class="clear"></div>
+    </div>
+</div>
 
 ### Contact Info [ contacts-info ]
 contacts_info:
