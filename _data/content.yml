@@ -236,6 +236,11 @@ testimonials:
       role: "Art Director"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
+    - image: "assets/img/testimonials/rev1.jpg"
+      name: "Mr. Guy"
+      role: "Customer / Social Media Influencer"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
 ### Clients [ clients ]
 clients:
   title: "Clients / Hackathons"
