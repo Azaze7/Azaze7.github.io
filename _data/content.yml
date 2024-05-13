@@ -57,7 +57,7 @@ services:
 ### Resume [ resume ]
 resume:
   experience:
-    title: "Experience"
+    title: "Work Experience"
     items:
       - year: "2013 - Present"
         name: "Art Director - Facebook Inc"
@@ -73,6 +73,36 @@ resume:
         
   education:
     title: "Education"
+    items:
+      - year: "2006 - 2008"
+        name: "Art University of New York"
+        text: "Bachelor's Degree in Computer Science ABC Technical Institute, Jefferson, Missouri"
+
+      - year: "2005 - 2006"
+        name: "Programming Course"
+        text: "Coursework - Git, WordPress, Javascript, iOS, Android."
+
+      - year: "2004 - 2005"
+        name: "Web Design Course"
+        text: "Converted Photoshop layouts to web pages using HTML, CSS, and JavaScript"
+
+  education:
+    title: "Course Work"
+    items:
+      - year: "2006 - 2008"
+        name: "Art University of New York"
+        text: "Bachelor's Degree in Computer Science ABC Technical Institute, Jefferson, Missouri"
+
+      - year: "2005 - 2006"
+        name: "Programming Course"
+        text: "Coursework - Git, WordPress, Javascript, iOS, Android."
+
+      - year: "2004 - 2005"
+        name: "Web Design Course"
+        text: "Converted Photoshop layouts to web pages using HTML, CSS, and JavaScript"
+
+  education:
+    title: "Personal Projects"
     items:
       - year: "2006 - 2008"
         name: "Art University of New York"
