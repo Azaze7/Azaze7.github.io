@@ -230,12 +230,12 @@ testimonials:
 
 ### Clients [ clients ]
 clients:
-  title: "Clients"
+  title: "Clients / Hackathons"
   items:
     - url: "https://www.google.com"
       image: "assets/img/clients/client1.png"
 
-    - url: "https://www.google.com"
+    - url: "https://www.linkedin.com/posts/bandit-game-studio_gamejam-jesseschell-gaia-activity-7051603509477052416-23Oy"
       image: "assets/img/clients/client2.png"
 
     - url: "https://www.google.com"
