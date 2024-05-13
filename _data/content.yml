@@ -209,7 +209,7 @@ skills:
 facts:
   title: "Interests"
   items:
-    - icon: "fas fa-solid fa-mountain-city"
+    - icon: "fas fa-solid fa-plane-departure"
       name: "Travel"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
@@ -221,7 +221,7 @@ facts:
       name: "Chess"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
-    - icon: "fas fa-solid fa-book-open-cover"
+    - icon: "fas fa-solid fa-book-bookmark"
       name: "Reading"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
           
