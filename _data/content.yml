@@ -165,20 +165,20 @@ skills:
 facts:
   title: "Interests"
   items:
-    - icon: "fas fa-baseball-ball"
-      name: "Basketball"
+    - icon: "fas fa-solid fa-mountain-city"
+      name: "Travel"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
-    - icon: "fas fa-campground"
-      name: "Camping"
+    - icon: "fas fa-solid fa-joystick"
+      name: "Gaming"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
     - icon: "fas fa-chess-knight"
       name: "Chess"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
-    - icon: "fas fa-headphones"
-      name: "Music"
+    - icon: "fas fa-solid fa-book-open-cover"
+      name: "Reading"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
       
 ### Team [ team ]
