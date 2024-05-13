@@ -30,6 +30,6 @@ main:
     parent: 0
   
   # Contacts
-  - title: "Contacts"
+  - title: "Contact"
     url: "contacts-image/"
     parent: 0
