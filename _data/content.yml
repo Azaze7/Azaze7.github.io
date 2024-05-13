@@ -157,11 +157,11 @@ skills:
         - label: "Python"
           value: "100" #0-100 progress in %
 
-        - label: "C / C++"
+        - label: "Java / JavaScript"
           value: "95" #0-100 progress in %
 
-        - label: "Java / JavaScript"
-          value: "90" #0-100 progress in %
+        - label: "C / C++"
+          value: "95" #0-100 progress in %
           
         - label: "PHP / MYSQL"
           value: "90" #0-100 progress in %
@@ -172,8 +172,11 @@ skills:
         - label: "Ruby"
           value: "80" #0-100 progress in %
 
-        -label: "Rust"
+        - label: "Rust"
           value: "75"
+
+        - label: "CSS"
+          value: "70"
 
     - type: "list" #skills progress type - default, dotted, circles, list
       title: "Knowledge"
