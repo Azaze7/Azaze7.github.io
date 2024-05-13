@@ -209,11 +209,11 @@ skills:
 facts:
   title: "Interests"
   items:
-    - icon: "fa-solid fa-mountain-city"
+    - icon: "fas fa-solid fa-mountain-city"
       name: "Travel"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
-    - icon: "fa-solid fa-joystick"
+    - icon: "fas fa-solid fa-joystick"
       name: "Gaming"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
@@ -221,7 +221,7 @@ facts:
       name: "Chess"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
-    - icon: "fa-solid fa-book-open-cover"
+    - icon: "fas fa-solid fa-book-open-cover"
       name: "Reading"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
           
@@ -235,8 +235,8 @@ testimonials:
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
       
     - image: "assets/img/testimonials/rev1.jpg"
-      name: "Helen Floyd"
-      role: "Art Director"
+      name: "The Joker"
+      role: "Clown Super Villain"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
     - image: "assets/img/testimonials/rev1.jpg"
@@ -248,17 +248,11 @@ testimonials:
 clients:
   title: "Clients / Hackathons"
   items:
-    - url: "https://www.google.com"
+    - url: "https://devcom.army.mil/"
       image: "assets/img/clients/client1.png"
 
     - url: "https://www.linkedin.com/posts/bandit-game-studio_gamejam-jesseschell-gaia-activity-7051603509477052416-23Oy"
       image: "assets/img/clients/client2.png"
-
-    - url: "https://www.google.com"
-      image: "assets/img/clients/client3.png"
-
-    - url: "https://www.google.com"
-      image: "assets/img/clients/client4.png"
       
 ### Custom Text [ text ]
 text:
