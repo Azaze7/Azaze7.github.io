@@ -34,7 +34,7 @@ about:
 services:
   title: "Skills"
   items:
-    - icon: "fas fa-code"
+    - icon: "fas fa-solid fa-layer-group"
       name: "Full-Stack Development"
       text: "I'm fully versed in Back-End & Front-End development for any project you need."
 
@@ -209,11 +209,11 @@ skills:
 facts:
   title: "Interests"
   items:
-    - icon: "fas fa-solid fa-mountain-city"
+    - icon: "fa-solid fa-mountain-city"
       name: "Travel"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
-    - icon: "fas fa-solid fa-joystick"
+    - icon: "fa-solid fa-joystick"
       name: "Gaming"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
@@ -221,7 +221,7 @@ facts:
       name: "Chess"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
-    - icon: "fas fa-solid fa-book-open-cover"
+    - icon: "fa-solid fa-book-open-cover"
       name: "Reading"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
           
