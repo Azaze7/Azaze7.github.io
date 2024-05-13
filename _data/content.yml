@@ -6,28 +6,28 @@
 ### About [ about ]
 about:
   image: "assets/img/man2.jpg"
-  text: "<p>Hello! I’m Daniel Curry. Web designer from USA, California, San Francisco. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique.</p>"
+  text: "<p>Hello! I’m Gilbert I. Guzman. I'm a Cyber Security Analyst from the United States, located in El Paso, TX. I have much experience in Coding & Ethical Hacking. I am also great at UI Design. I'd love to talk with you about technology!</p>"
   list:
     - label: "Age"
-      value: "24"
+      value: "23"
 
     - label: "Residence"
       value: "USA"
 
-    - label: "Freelance"
+    - label: "Student/Freelance"
       value: "Available"
 
-    - label: "Address"
-      value: "San Francisco"
+    - label: "Location"
+      value: "El Paso"
 
     - label: "Phone"
-      value: "+1 256 254 84 56"
+      value: "+1 (915) 202-4744"
 
     - label: "E-mail"
-      value: "alejandroa@gmail.com"
+      value: "giguzman@miners.utep.edu"
 
   download:
-    text: "Download CV"
+    text: "Download Resume"
     link: "https://drive.google.com/"
 
 ### Services [ services ]
