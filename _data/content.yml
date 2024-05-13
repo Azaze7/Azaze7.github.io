@@ -44,7 +44,7 @@ services:
 
     - icon: "fas fa-mobile-alt"
       name: "UI/UX Concepting"
-      text: "I can assist in the creation of eye-popping yet user friendly user interfaces or social media profiles."
+      text: "I can assist in the creation of eye-popping yet user friendly user interfaces for both web and apps."
       
     - icon: "fas fa-gamepad"
       name: "Game Development"
@@ -52,7 +52,7 @@ services:
       
     - icon: "fas fa-camera"
       name: "Photography"
-      text: "I have experience in professional photography, and can assist in creating visually stunning photos for you or your social media.."
+      text: "I have experience in professional photography, and can assist in creating visually stunning photos for you or your social media."
       
 ### Pricing [ pricing ]
 pricing:
