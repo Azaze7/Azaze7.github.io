@@ -32,7 +32,7 @@ about:
 
 ### Services [ services ]
 services:
-  title: "Services"
+  title: "Skills & Services"
   items:
     - icon: "fas fa-code"
       name: "Full-Stack Development"
@@ -53,48 +53,6 @@ services:
     - icon: "fas fa-camera"
       name: "Photography"
       text: "I have experience in professional photography, and can assist in creating visually stunning photos for you or your social media."
-      
-### Pricing [ pricing ]
-pricing:
-  title: "Pricing"
-  items:
-    - icon: "fas fa-star"
-      name: "Basic"
-      price: "39"
-      price_before: "$"
-      price_after: "hour"
-      list:
-        - value: "Web Development"
-          disable: "no"
-        - value: "Advetising"
-          disable: "no"
-        - value: "Game Development"
-          disable: "no"
-        - value: "Music Writing"
-          disable: "yes"
-        - value: "Photography"
-          disable: "yes"
-      button: "Buy Now"
-      link: "contact/"
-          
-    - icon: "fas fa-rocket"
-      name: "Premium"
-      price: "59"
-      price_before: "$"
-      price_after: "hour"
-      list:
-        - value: "Web Development"
-          disable: "no"
-        - value: "Advetising"
-          disable: "no"
-        - value: "Game Development"
-          disable: "no"
-        - value: "Music Writing"
-          disable: "no"
-        - value: "Photography"
-          disable: "no"
-      button: "Buy Now"
-      link: "contact/"
 
 ### Resume [ resume ]
 resume:
@@ -278,6 +236,48 @@ clients:
 
     - url: "https://www.google.com"
       image: "assets/img/clients/client4.png"
+
+### Pricing [ pricing ]
+pricing:
+  title: "Freelance Pricing"
+  items:
+    - icon: "fas fa-star"
+      name: "Basic"
+      price: "39"
+      price_before: "$"
+      price_after: "hour"
+      list:
+        - value: "Web Development"
+          disable: "no"
+        - value: "Advetising"
+          disable: "no"
+        - value: "Game Development"
+          disable: "no"
+        - value: "Music Writing"
+          disable: "yes"
+        - value: "Photography"
+          disable: "yes"
+      button: "Buy Now"
+      link: "contact/"
+          
+    - icon: "fas fa-rocket"
+      name: "Premium"
+      price: "59"
+      price_before: "$"
+      price_after: "hour"
+      list:
+        - value: "Web Development"
+          disable: "no"
+        - value: "Advetising"
+          disable: "no"
+        - value: "Game Development"
+          disable: "no"
+        - value: "Music Writing"
+          disable: "no"
+        - value: "Photography"
+          disable: "no"
+      button: "Buy Now"
+      link: "contact/"
       
 ### Custom Text [ text ]
 text:
