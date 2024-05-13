@@ -213,11 +213,11 @@ facts:
       name: "Travel"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
-    - icon: "fas fa-solid fa-joystick"
+    - icon: "fas fa-solid fa-ghost"
       name: "Gaming"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
-    - icon: "fas fa-chess-knight"
+    - icon: "fas fa-solid fa-chess"
       name: "Chess"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
