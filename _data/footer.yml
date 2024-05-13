@@ -6,7 +6,7 @@
 main:
   social:
     - title: "Github"
-      icon: "fab fa-pinterest"
+      icon: "fab ion-social-github"
       url: "https://github.com/Azaze7"
     - title: "Instagram"
       icon: "fab fa-instagram"
