@@ -262,23 +262,23 @@ clients:
 
 ### Contact Info [ contacts-info ]
 contacts_info:
-  title: "Contacts Info"
+  title: "Contact Info"
   list:
     - label: "Phone"
       icon: "fas fa-phone"
-      value: "+ (231) 456 67 89"
+      value: "+1 (915) 202-4744"
 
     - label: "Email"
       icon:  "fas fa-envelope"
-      value: "<a href='mailto:steve-pearson@gmail.com'>steve-pearson@gmail.com</a>"
+      value: "<a href='mailto:giguzman@miners.utep.edu'>giguzman@miners.utep.edu</a>"
 
     - label: "Address"
       icon: "fas fa-map-marker-alt"
-      value: "2621 W Pico Blvd, Los Angeles"
+      value: "1234 University Blvd, El Paso"
     
     - label: "Freelance Available"
       icon: "fas fa-user-tie"
-      value: "I am available for Freelance hire"
+      value: "I am currently available for Freelance hire."
 
 ### Contact Form [ contacts-form ]
 contacts_form:
