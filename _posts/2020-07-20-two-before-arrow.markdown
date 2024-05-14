@@ -32,6 +32,8 @@ Gil. G.
 
 
 ```ruby
+#Say Hello to the Internet!
+
 #print_message function.
 def print_mesage(site_message)
   puts site_message
