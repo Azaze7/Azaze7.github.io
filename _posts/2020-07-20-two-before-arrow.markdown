@@ -1,32 +1,47 @@
 ---
 layout: post
-title:  Two Before Arrow Not Relied
-date:   2020-07-20
+title:  Hello World! [Website Hosting via Github Pages]
+date:   2024-05-13
 category: Design
 image: assets/img/blog/blog_4.jpg
-author: Ryan Adlard
+author: Gilbert Guzman
 tags: code
 ---
 
-So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.
+"A great idea can solve multiple problems at the same time."
+-Shigeru Miyamoto
 
-Forfeited you engrossed but gay sometimes explained. Another as studied it to evident. Merry sense given he be arise. Conduct at an replied removal an amongst. Remaining determine few her two cordially admitting old.
+As I approach the culmination of my education in the field of Computer Science, I’ve decided to construct a personal website to apply some of my current knowledge.
 
+My aspiration is to transform this personal site into a comprehensive showcase of my work; providing easy access to my current portfolio, resume, and contact information for anyone who may be interested.
 
-> Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque suscipit.
+In addition, I plan to start my blog where I can share my thoughts on various tech-related topics, ranging from industry news and coding projects to pressing community events.
 
-Tiled say decay spoil now walls meant house. My mr interest thoughts screened of outweigh removing. Evening society musical besides inhabit ye my. Lose hill well up will he over on. Increasing [link](#) sufficient everything men him admiration unpleasing .
+However, after finishing up my Computer Networks Class, it became apparent self-hosting this website requires resources I simply do not have. In additon, establishing a "proper" system through purchasing a domain would mean needing to fill out a substaintial amount of paperwork I simply did not want to do.
 
-* Greatest properly off ham exercise all.
-* Unsatiable invitation its possession nor off.
-* All difficulty estimating unreserved increasing the solicitude.
+> That's when Github Pages came into the picture.
 
-Unpleasant astonished an diminution up partiality. Noisy an their of meant. Death means up civil do an offer wound of.
+Thanks to the suggestion of a close friend of mine, I can now effortlessly host this site via my Github profile! I think the final product looks pretty neat. 
+
+This site is built off of a template I have recursively added onto, and I would say that I am very pleased with the results. 
+
+I hope this post serves as a good first impression of who I am, and that the blog section of this site actually works. After all, first time's the charm!
+
+Until next time,
+Gil. G.
+
 
 ```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
+#print_message function.
+def print_mesage(site_message)
+  puts site_message
 end
-print_hi('Ryan')
-#=> prints 'Hi, Ryan' to STDOUT.
+
+#Main Code.
+def main
+  print_message("Hello, World!")
+end
+
+#Call Main.
+main
 ```
