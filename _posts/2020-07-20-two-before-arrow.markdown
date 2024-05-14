@@ -28,10 +28,12 @@ This site is built off of a template I have recursively added onto, and I would 
 I hope this post serves as a good first impression of who I am, and that the blog section of this site actually works. After all, first time's the charm!
 
 Until next time,
+
 Gil. G.
 
 
 ```ruby
+
 #Say Hello to the Internet!
 
 #print_message function.
@@ -46,4 +48,5 @@ end
 
 #Call Main.
 main
+
 ```
