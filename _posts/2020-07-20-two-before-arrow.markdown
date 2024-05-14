@@ -5,7 +5,7 @@ date:   2024-05-13
 category: Design
 image: assets/img/blog/blog_4.jpg
 author: Gilbert Guzman
-tags: code
+tags: Code, Website
 ---
 
 "A great idea can solve multiple problems at the same time."
