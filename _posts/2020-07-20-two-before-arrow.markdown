@@ -35,36 +35,16 @@ Gil. G.
 ```ruby
 
 #Say Hello to the Internet!
-
-
 #print_message function.
-
-
 def print_mesage(site_message)
-
-
   puts site_message
-
-
 end
-
 
 #Main Code.
-
-
 def main
-
-
   print_message("Hello, World!")
-
-
 end
 
-
 #Call Main.
-
-
 main
-
-
 ```
