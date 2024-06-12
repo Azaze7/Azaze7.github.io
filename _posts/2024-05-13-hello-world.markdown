@@ -5,7 +5,7 @@ date:   2024-05-13
 category: Coding
 image: assets/img/blog/blog_4.jpg
 author: Gilbert Guzman
-tags: Code Update Github
+tags: Update Github
 ---
 
 "A great idea can solve multiple problems at the same time."
