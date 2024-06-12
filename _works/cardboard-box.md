@@ -11,10 +11,12 @@ button_url: https://github.com/Azaze7/MAVERICK
 
 ~ MAVERICK Won *Most Technical Award* & was awarded *4th Place Overall!*
 
-~ Worked alongside members of the Atlas Development team to develop an indie game in under 48 hours.
+* In this project, I Worked alongside members of the Atlas Development team to develop an indie game in under 48 hours.
 
-~ Done during the Borderland Glitch Game Jam; with the prompt of making a game on a movie/tv show released in the '80s.
+* My team and I utilized Unity & Visual Studio Code for the game engine & GIMP for asset creation.  
 
-~ MAVERICK is a Top Gun themed game inspired by the gameplay style of 1942/Galaga using retro pixel art graphics.
+* This was done during the Borderland Glitch Game Jam; with the prompt of making a game based on a Movie or TV show released in the '80s.
 
-~ Our team utilized the Unity engine for gameplay and GIMP for asset creation.
+* MAVERICK is a Top-Gun themed game inspired by the gameplay style of classics such as 1942 & Galaga; utilizing retro pixel art graphics.
+
+* I have linked a full writeup about MAVERICK, our design decisions, & even ideas left on 'The Cutting Room Floor' below.
