@@ -1,22 +1,20 @@
 ---
-title: Cardboard Box
+title: MAVERICK [Game Jam]
 category: Content
 category_slug: f-content
 type: content
 image: assets/img/works/work3.jpg
-button_url: https://bslthemes.site/
+button_url: https://github.com/Azaze7/MAVERICK
 ---
 
-So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.
+~ [Personal Project/Hackathon].
 
-Forfeited you engrossed but gay sometimes explained. Another as studied it to evident. Merry sense given he be arise. Conduct at an replied removal an amongst. Remaining determine few her two cordially admitting old.
+~ MAVERICK Won *Most Technical Award* & was awarded *4th Place Overall!*
 
-^Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque suscipit.
+~ Worked alongside members of the Atlas Development team to develop an indie game in under 48 hours.
 
-Tiled say decay spoil now walls meant house. My mr interest thoughts screened of outweigh removing. Evening society musical besides inhabit ye my. Lose hill well up will he over on. Increasing sufficient everything men him admiration unpleasing.
+~ Done during the Borderland Glitch Game Jam; with the prompt of making a game on a movie/tv show released in the '80s.
 
-* Greatest properly off ham exercise all.
-* Unsatiable invitation its possession nor off.
-* All difficulty estimating unreserved increasing the solicitude.
+~ MAVERICK is a Top Gun themed game inspired by the gameplay style of 1942/Galaga using retro pixel art graphics.
 
-Unpleasant astonished an diminution up partiality. Noisy an their of meant. Death means up civil do an offer wound of.
+~ Our team utilized the Unity engine for gameplay and GIMP for asset creation.
