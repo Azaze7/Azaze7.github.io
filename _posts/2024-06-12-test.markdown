@@ -3,7 +3,7 @@ layout: post
 title:  My Visit to Super Nintendo World. [Lost Within The Castle Walls]
 date:   2024-06-12
 category: Traveling
-image: assets/img/blog/blog_4.jpg
+image: assets/img/blog/Website_bobombbattlefield.jpg
 author: Gilbert Guzman
 tags: Update Opinion
 ---
