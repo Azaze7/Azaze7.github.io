@@ -2,10 +2,10 @@
 layout: post
 title:  Hello World! [Website Hosting via Github Pages]
 date:   2024-05-13
-category: Update Design
+category: Coding
 image: assets/img/blog/blog_4.jpg
 author: Gilbert Guzman
-tags: Code Website Github
+tags: Code Update Github
 ---
 
 "A great idea can solve multiple problems at the same time."
