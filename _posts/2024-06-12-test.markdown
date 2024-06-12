@@ -8,8 +8,8 @@ author: Gilbert Guzman
 tags: Update Opinion
 ---
 
-"I love coding as much as you like pizza."
--Somebody
+"Thank you so much for-to-playing my game!"
+-Mario Mario
 
 ```ruby
 
