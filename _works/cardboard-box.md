@@ -3,7 +3,7 @@ title: MAVERICK [Game Jam]
 category: Content
 category_slug: f-content
 type: content
-image: assets/img/works/work3.jpg
+image: assets/img/works/MAVERICK_Crop_CODING_PROJECT.png
 button_url: https://github.com/Azaze7/MAVERICK
 ---
 
@@ -11,9 +11,9 @@ button_url: https://github.com/Azaze7/MAVERICK
 
 ~ MAVERICK Won *Most Technical Award* & was awarded *4th Place Overall!*
 
-* In this project, I Worked alongside members of the Atlas Development team to develop an indie game in under 48 hours.
+* In this project, I worked alongside members of the Atlas Development team to develop an indie game in under 48 hours.
 
-* My team and I utilized Unity & Visual Studio Code for the game engine & GIMP for asset creation.  
+* My team & I utilized Unity & Visual Studio Code for the game engine & GIMP for asset creation.  
 
 * This was done during the Borderland Glitch Game Jam; with the prompt of making a game based on a Movie or TV show released in the '80s.
 
