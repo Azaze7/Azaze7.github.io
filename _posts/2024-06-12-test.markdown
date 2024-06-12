@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  Test Code! [I hate ruby]
+title:  My Visit to Super Nintendo World. [Lost Within The Castle Walls]
 date:   2024-06-12
-category: Inspiring
+category: Traveling
 image: assets/img/blog/blog_4.jpg
 author: Gilbert Guzman
-tags: Update
+tags: Update Opinion
 ---
 
 "I love coding as much as you like pizza."
