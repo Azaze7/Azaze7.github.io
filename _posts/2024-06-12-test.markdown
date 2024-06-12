@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Test Code! [Website Hosting via Github Pages]
+title:  Test Code! [I hate ruby]
 date:   2024-06-12
 category: Coding
 image: assets/img/blog/blog_4.jpg
