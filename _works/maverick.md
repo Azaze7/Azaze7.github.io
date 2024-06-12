@@ -3,7 +3,7 @@ title: MAVERICK [Game Jam]
 category: Content
 category_slug: f-content
 type: content
-image: assets/img/works/MAVERICK_Crop_CODING_PROJECT.png
+image: assets/img/works/MAVERICK_Crop_CODING_PROJECT1.png
 button_url: https://github.com/Azaze7/MAVERICK
 ---
 
