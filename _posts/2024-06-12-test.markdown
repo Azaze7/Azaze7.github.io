@@ -5,7 +5,7 @@ date:   2024-06-12
 category: Inspiring
 image: assets/img/blog/blog_4.jpg
 author: Gilbert Guzman
-tags: Code Update Github
+tags: Update
 ---
 
 "I love coding as much as you like pizza."
