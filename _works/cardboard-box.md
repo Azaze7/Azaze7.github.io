@@ -19,4 +19,4 @@ button_url: https://github.com/Azaze7/MAVERICK
 
 * MAVERICK is a Top-Gun themed game inspired by the gameplay style of classics such as 1942 & Galaga; utilizing retro pixel art graphics.
 
-* I have linked a full writeup about MAVERICK, our design decisions, & even ideas left on 'The Cutting Room Floor' below.
+* I have linked a full writeup about MAVERICK that includes our design decisions, ideas left on 'The Cutting Room Floor', & a full gameplay demo below.
