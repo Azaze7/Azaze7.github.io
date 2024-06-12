@@ -1,5 +1,5 @@
 ---
-title: Minimal Poster Frame
+title: "Natural Mint on the Riverside"
 category: Image
 category_slug: f-image
 type: image
