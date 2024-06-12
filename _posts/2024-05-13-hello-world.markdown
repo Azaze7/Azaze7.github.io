@@ -3,7 +3,7 @@ layout: post
 title:  Hello World! [Website Hosting via Github Pages]
 date:   2024-05-13
 category: Coding
-image: assets/img/blog/blog_4.jpg
+image: assets/img/blog/Website_mykeyboard.jpg
 author: Gilbert Guzman
 tags: Update Github
 ---
