@@ -23,7 +23,7 @@ title: "Traveling"
                 <div class="h-subtitles">
                     <div class="h-subtitle typing-bread">
                         <p class="breadcrumbs">
-                            <a href="{{ site.url }}">{{ ui_text.home }}</a> / {{ page.title }}
+                            <a href="{{ site.url }}">{{ ui_text.home }}</a> / {{ "Blog" }} / {{ page.title }}
                         </p>
                     </div>
                     <span class="typed-bread"></span>
@@ -34,7 +34,7 @@ title: "Traveling"
 <br>
 <br>
 <br>
-{% for post in site.categories.Coding %}
+{% for post in site.categories.Traveling %}
   <h2 style="padding-left: 50px;"><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <br>
 {% endfor %}
