@@ -1,0 +1,40 @@
+---
+layout: default
+title: "Inspiring"
+---
+
+{% assign ui_text = site.data.ui-text['ui_text'] %}
+
+<!-- Section Started -->
+<div class="section started section-title" id="section-started">
+
+    <!-- background -->
+    <div class="video-bg">
+        <div class="video-bg-mask"></div>
+        <div class="video-bg-texture" id="grained_container"></div>
+    </div>
+
+    <!-- started content -->
+    <div class="centrize full-width">
+        <div class="vertical-center">
+            <div class="started-content">
+                <h6 class="h-title">{{ page.title }}</h6>
+                 <h6 class="h-title" style="@media (max-width: 600px) { display: none; }">{{ "Category" }}</h6>
+                <div class="h-subtitles">
+                    <div class="h-subtitle typing-bread">
+                        <p class="breadcrumbs">
+                            <a href="{{ site.url }}">{{ ui_text.home }}</a> / {{ page.title }}
+                        </p>
+                    </div>
+                    <span class="typed-bread"></span>
+                </div>
+            </div>
+        </div>
+
+<br>
+<br>
+<br>
+{% for post in site.categories.Coding %}
+  <h2 style="padding-left: 50px;"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <br>
+{% endfor %}
