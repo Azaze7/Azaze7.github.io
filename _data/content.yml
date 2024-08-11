@@ -42,15 +42,15 @@ services:
       name: "Networking & Security"
       text: "Knowledgeable in TCP/IP & DNS. Moderate experience in Analyzing DDoS atacks & Penetration Testing of offensive networks."
       
-    - icon: "fa-solid fa-robot"
+    - icon: "fas fa-solid fa-robot"
       name: "Machine Learning & AI"
       text: "Basic experience using Python libraries such as TensorFlow to train datasets using Machine Learning."
 
-    - icon: "fa-solid fa-bug"
+    - icon: "fas fa-solid fa-bug"
       name: "Cybersecurity Tools & Reverse Engineering"
       text: "Experienced in using reverse engineering tools, such as Ghidra, IDA Pro, DShell, Metasploit, and more."
 
-    - icon: "fa-solid fa-server"
+    - icon: "fas fa-solid fa-server"
       name: "Database Management"
       text: "Moderate skills in using MySQL and Microsoft SQL Server Suites for database management."
 
