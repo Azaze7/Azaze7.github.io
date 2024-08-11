@@ -5,7 +5,7 @@
 
 ### About [ about ]
 about:
-  image: "assets/img/man2.jpg"
+  image: "assets/img/Self_image.jpg"
   text: "<p>Hello! I’m Gilbert I. Guzman. I'm an Aspiring Cyber Security Analyst from the United States, located in El Paso, TX. My experience is in coding & ethical hacking but I also enjoy working on games & UI Design. I would love to talk to you about computers!</p>"
   list:
     - label: "Age"
