@@ -9,10 +9,7 @@ main:
   # Home
   - title: "Home"
     url: "/"
-    parent: 1
-    childs:
-        - title: "Who Am I?"
-          url: "/"
+    parent: 0
     
   # Resume
   - title: "Resume"
