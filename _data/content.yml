@@ -112,7 +112,7 @@ skills:
       title: "Languages Skills"
       items:
         - label: "English"
-          value: "100" #0-100 progress in %
+          value: "95" #0-100 progress in %
 
         - label: "Spanish"
           value: "65" #0-100 progress in %
@@ -121,28 +121,25 @@ skills:
       title: "Coding Skills"
       items:
         - label: "Python"
-          value: "100" #0-100 progress in %
-
-        - label: "Java / JavaScript"
           value: "95" #0-100 progress in %
 
-        - label: "C / C++"
-          value: "95" #0-100 progress in %
-          
-        - label: "PHP / MYSQL"
+        - label: "Java"
           value: "90" #0-100 progress in %
 
-        - label: "HTML"
-          value: "85"
-
-        - label: "Ruby"
-          value: "80" #0-100 progress in %
+        - label: "C / C++ / C#"
+          value: "85" #0-100 progress in %
           
-        - label: "Rust"
+        - label: "PHP / MYSQL"
+          value: "80" #0-100 progress in %
+
+        - label: "CSS3 / HTML"
           value: "75"
 
-        - label: "CSS"
-          value: "70"
+        - label: "RISC-V Assembly"
+          value: "70" #0-100 progress in %
+          
+        - label: "Ruby"
+          value: "65"
 
     - type: "list" #skills progress type - default, dotted, circles, list
       title: "Knowledge"
