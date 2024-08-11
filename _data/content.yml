@@ -6,7 +6,7 @@
 ### About [ about ]
 about:
   image: "assets/img/man2.jpg"
-  text: "<p>Hello! I’m Gilbert I. Guzman. I'm a Cyber Security Analyst from the United States, located in El Paso, TX. I have much experience in Coding & Ethical Hacking. I am also great at UI Design. I'd love to talk with you about technology!</p>"
+  text: "<p>Hello! I’m Gilbert I. Guzman. I'm an Aspiring Cyber Security Analyst from the United States, located in El Paso, TX. My experience is in coding & ethical hacking but I also enjoy working on games & UI Design. I would love to talk to you about computers!</p>"
   list:
     - label: "Age"
       value: "23"
@@ -15,7 +15,7 @@ about:
       value: "USA"
 
     - label: "Student/Freelance"
-      value: "Available"
+      value: "Currently Enrolled"
 
     - label: "Location"
       value: "El Paso"
@@ -24,7 +24,7 @@ about:
       value: "+1 (915) 202-4744"
 
     - label: "E-mail"
-      value: "giguzman@miners.utep.edu"
+      value: "azaze7.github@gmail.com"
 
   download:
     text: "Download Resume"
@@ -36,23 +36,35 @@ services:
   items:
     - icon: "fas fa-solid fa-layer-group"
       name: "Full-Stack Development"
-      text: "I'm fully versed in Back-End & Front-End development for any project you need."
+      text: "Moderate experience in both Back-End & Front-End development, across a multitude of programming languages."
 
     - icon: "fas fa-code"
-      name: "Web Development"
-      text: "I can create Modern and mobile-ready websites for your project or business."
+      name: "Networking & Security"
+      text: "Knowledgeable in TCP/IP & DNS. Moderate experience in Analyzing DDoS atacks & Penetration Testing of offensive networks."
+      
+    - icon: "fa-solid fa-robot"
+      name: "Machine Learning & AI"
+      text: "Basic experience using Python libraries such as TensorFlow to train datasets using Machine Learning."
 
+    - icon: "fa-solid fa-bug"
+      name: "Cybersecurity Tools & Reverse Engineering"
+      text: "Experienced in using reverse engineering tools, such as Ghidra, IDA Pro, DShell, Metasploit, and more."
+
+    - icon: "fa-solid fa-server"
+      name: "Database Management"
+      text: "Moderate skills in using MySQL and Microsoft SQL Server Suites for database management."
+
+    - icon: "fas fa-wrench"
+      name: "Problem Solving"
+      text: "Strong analytical & troubleshooting skills. Experienced in writing & optimizing solutions."
+      
     - icon: "fas fa-mobile-alt"
       name: "UI/UX Concepting"
-      text: "I can assist in the creation of eye-popping yet user friendly user interfaces for both web and apps."
-      
-    - icon: "fas fa-gamepad"
-      name: "Game Development"
-      text: "I can help develop unique and memorible games for android, ios, and more."
+      text: "Basic skills in creation of eye-popping yet user friendly user interfaces for webpages, apps, and games."
       
     - icon: "fas fa-camera"
       name: "Photography"
-      text: "I have experience in professional photography, and can assist in creating visually stunning photos for you or your social media."
+      text: "Basic experience shooting pictures and videos, can assist in creating visually stunning photos."
 
 ### Resume [ resume ]
 resume:
