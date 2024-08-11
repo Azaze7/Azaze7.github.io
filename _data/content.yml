@@ -147,10 +147,10 @@ skills:
         - label: "Machine Virtualization"
           value: "" #0-100 progress in %
 
-        - label: "Patch Deployment"
+        - label: "TCP/IP Allocation and Monitoring"
           value: "" #0-100 progress in %
 
-        - label: "iOS, Andriod, Windows, & Linux OS"
+        - label: "iOS, Andriod, Windows, & Linux"
           value: "" #0-100 progress in %
 
         - label: "Photo Editing via Adobe Lightroom & Photoshop"
@@ -159,7 +159,7 @@ skills:
         - label: "UI Concepting"
           value: "" #0-100 progress in %
 
-        - label: "TCP/IP Allocation and Monitoring"
+        - label: "Game Design"
           value: "" #0-100 progress in %
 
         - label: "Reverse Engineering"
