@@ -227,15 +227,15 @@ contacts_info:
 
     - label: "Email"
       icon:  "fas fa-envelope"
-      value: "<a href='mailto:giguzman@miners.utep.edu'>giguzman@miners.utep.edu</a>"
+      value: "<a href='mailto:azaze7.github@gmail.com'>azaze7.github@gmail.com</a>"
 
     - label: "Address"
       icon: "fas fa-map-marker-alt"
-      value: "1234 University Blvd, El Paso"
+      value: "3925 Tierra Zafiro Dr, El Paso, TX, 79938"
     
-    - label: "Freelance Available"
+    - label: "Current Availability"
       icon: "fas fa-user-tie"
-      value: "I am currently available for Freelance hire."
+      value: "I am enrolled in College right now, but I am currently available for freelance hire or part-time employment."
 
 ### Contact Form [ contacts-form ]
 contacts_form:
