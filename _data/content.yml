@@ -206,13 +206,6 @@ testimonials:
       name: "Mr. Guy"
       role: "Customer / Social Media Influencer"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-
-### Custom Text [ text ]
-text:
-  title: "Personal Projects / Course Work"
-  text: "
-      I am a test message!
-      image: "assets/img/clients/client1big.png"
         
 ### Clients [ clients ]
 clients:
