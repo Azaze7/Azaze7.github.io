@@ -144,28 +144,28 @@ skills:
     - type: "list" #skills progress type - default, dotted, circles, list
       title: "Knowledge"
       items:
-        - label: "Website hosting"
+        - label: "Machine Virtualization"
           value: "" #0-100 progress in %
 
-        - label: "iOS and android apps"
+        - label: "Patch Deployment"
           value: "" #0-100 progress in %
 
-        - label: "Create logo design"
+        - label: "iOS, Andriod, Windows, & Linux OS"
           value: "" #0-100 progress in %
 
-        - label: "Design for print"
+        - label: "Photo Editing via Adobe Lightroom & Photoshop"
           value: "" #0-100 progress in %
 
-        - label: "Modern and mobile-ready"
+        - label: "UI Concepting"
           value: "" #0-100 progress in %
 
-        - label: "Advertising services include"
+        - label: "TCP/IP Allocation and Monitoring"
           value: "" #0-100 progress in %
 
-        - label: "Graphics and animations"
+        - label: "Reverse Engineering"
           value: "" #0-100 progress in %
 
-        - label: "Search engine marketing"
+        - label: "Leadership & Teamwork"
           value: "" #0-100 progress in %
 
 ### Facts [ facts ]
