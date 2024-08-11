@@ -129,17 +129,17 @@ skills:
         - label: "C / C++ / C#"
           value: "85" #0-100 progress in %
           
-        - label: "PHP / MYSQL"
+        - label: "Markdown"
           value: "80" #0-100 progress in %
 
-        - label: "CSS3 / HTML"
+        - label: "HTML / JavaScript / CSS3"
           value: "75"
 
         - label: "RISC-V Assembly"
           value: "70" #0-100 progress in %
           
-        - label: "Ruby"
-          value: "65"
+        - label: "PHP / MySQL"
+          value: "70"
 
     - type: "list" #skills progress type - default, dotted, circles, list
       title: "Knowledge"
