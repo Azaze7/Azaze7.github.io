@@ -156,16 +156,16 @@ skills:
         - label: "Photo Editing via Adobe Lightroom & Photoshop"
           value: "" #0-100 progress in %
 
-        - label: "UI Concepting"
-          value: "" #0-100 progress in %
-
-        - label: "Game Design"
+        - label: "Leadership & Teamwork"
           value: "" #0-100 progress in %
 
         - label: "Reverse Engineering"
           value: "" #0-100 progress in %
 
-        - label: "Leadership & Teamwork"
+        - label: "UI Design"
+          value: "" #0-100 progress in %
+
+        - label: "Game Design"
           value: "" #0-100 progress in %
 
 ### Facts [ facts ]
