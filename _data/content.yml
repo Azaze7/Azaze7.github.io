@@ -210,8 +210,8 @@ testimonials:
 ### Custom Text [ text ]
 text:
   title: "Personal Projects / Course Work"
-  items: 
-    - url: "https://github.com/Azaze7"
+  text: "
+      I am a test message!
       image: "assets/img/clients/client1big.png"
         
 ### Clients [ clients ]
